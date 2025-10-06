@@ -40,7 +40,7 @@
     "@ant-design/icons": "^4.8.0",
     "@monaco-editor/react": "^4.4.6",
     "@tauri-apps/api": "^1.2.0",
-    "antd": "^5.1.0",
+    "antd": "^5.27.3",
     "clsx": "^1.2.1",
     "dayjs": "^1.11.7",
     "github-markdown-css": "^5.1.0",
