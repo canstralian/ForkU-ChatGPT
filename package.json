@@ -47,7 +47,7 @@
     "lodash": "^4.17.21",
     "monaco-editor": "^0.52.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react-dom": "^18.3.1",
     "react-markdown": "^8.0.4",
     "react-resizable-panels": "^0.0.63",
     "react-router-dom": "^6.4.5",
